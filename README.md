@@ -13,8 +13,8 @@ A full-stack quiz application built using **Spring Boot (Backend)**, **React (Fr
 
 
 
-<img width="1365" height="653" alt="Screenshot 2025-07-24 175018" src="https://github.com/user-attachments/assets/1b2ad447-4246-4864-bbe6-e497e409f5e4" />
 <img width="1365" height="638" alt="Screenshot 2025-07-24 174852" src="https://github.com/user-attachments/assets/5567fceb-e26a-4a2b-8ffa-31dfe5d87627" />
+<img width="1365" height="653" alt="Screenshot 2025-07-24 175018" src="https://github.com/user-attachments/assets/1b2ad447-4246-4864-bbe6-e497e409f5e4" />
 
 
 ### 📦 Tech Stack

@@ -22,7 +22,6 @@ A full-stack quiz application built using **Spring Boot (Backend)**, **React (Fr
 - 💾 Database: PostgreSQL
 - 🌐 Frontend: React, Bootstrap
 - 📡 Communication: REST APIs (CORS enabled)
-- 🔐 JWT authentication (ready to integrate)
 
 ---
 
